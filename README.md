@@ -1,5 +1,17 @@
-<h3>Tech Bootcamps</h3>
+Here you will find a list of different tech bootcamps that cover a vast array of different types.
 
-[Flatiron School](https://flatironschool.com/)<br>
-[Lambda School](https://lambdaschool.com/)<br>
-[Full Stack Academy](https://www.fullstackacademy.com/)<br>
+We would love to know which conferences you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
+
+## Tech Bootcamps
+
+- [Flatiron School](https://flatironschool.com/)
+- [Lambda School](https://lambdaschool.com/)
+- [Full Stack Academy](https://www.fullstackacademy.com/)
+- [Thinkful](https://www.thinkful.com/)
+- [Nucamp](https://www.nucamp.co)
+- [Kenzie Academy](https://www.kenzie.academy/)
+- [General Assembly](https://generalassemb.ly/)
+- [Springboard](https://www.springboard.com/)
+- [Ironhack](https://www.ironhack.com/en)
+- [Career Foundry](https://careerfoundry.com/)
+- [App Academy](https://www.appacademy.io/)
