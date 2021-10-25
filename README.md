@@ -4,6 +4,7 @@ We would love to know which bootcamps you think deserve to be included in our li
 
 ## Tech Bootcamps
 
+- [100Devs](https://leonnoel.com/100devs/)
 - [App Academy](https://www.appacademy.io/)
 - [Brain Station](https://brainstation.io/)
 - [Career Foundry](https://careerfoundry.com/)
@@ -22,5 +23,3 @@ We would love to know which bootcamps you think deserve to be included in our li
 - [Springboard](https://www.springboard.com/)
 - [Tech Elevator](https://www.techelevator.com/)
 - [Thinkful](https://www.thinkful.com/)
-- [Brain Station](https://brainstation.io/)
-- [100Devs](https://leonnoel.com/100devs/)
