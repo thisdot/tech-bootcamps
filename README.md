@@ -1,4 +1,4 @@
-Here you will find a list of different tech bootcamps that cover a vast array of different specialities. 
+Here you will find a list of different tech bootcamps that cover a vast array of different specialities.
 
 We would love to know which bootcamps you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
 
@@ -18,7 +18,7 @@ We would love to know which bootcamps you think deserve to be included in our li
 - [Hack Reactor](https://www.hackreactor.com/)
 - [Ironhack](https://www.ironhack.com/en)
 - [Kenzie Academy](https://www.kenzie.academy/)
-- [Lambda School](https://lambdaschool.com/)
+- [Bloom Institute of Technology](https://www.bloomtech.com/)
 - [Nucamp](https://www.nucamp.co)
 - [Pursuit](https://www.pursuit.org/)
 - [Springboard](https://www.springboard.com/)
