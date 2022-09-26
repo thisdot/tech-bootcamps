@@ -6,6 +6,7 @@ We would love to know which bootcamps you think deserve to be included in our li
 
 - [100Devs](https://leonnoel.com/100devs/)
 - [App Academy](https://www.appacademy.io/)
+- [Bloom Institute of Technology](https://www.bloomtech.com/)
 - [Brain Station](https://brainstation.io/)
 - [Career Foundry](https://careerfoundry.com/)
 - [Coding Dojo](https://www.codingdojo.com/)
@@ -18,7 +19,6 @@ We would love to know which bootcamps you think deserve to be included in our li
 - [Hack Reactor](https://www.hackreactor.com/)
 - [Ironhack](https://www.ironhack.com/en)
 - [Kenzie Academy](https://www.kenzie.academy/)
-- [Bloom Institute of Technology](https://www.bloomtech.com/)
 - [Nucamp](https://www.nucamp.co)
 - [Pursuit](https://www.pursuit.org/)
 - [Springboard](https://www.springboard.com/)
