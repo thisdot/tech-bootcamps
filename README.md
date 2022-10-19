@@ -28,6 +28,10 @@ This is a 21 week online coding bootcamp providing everything you need to get yo
 
 Coding Dojo is a 28 week online bootcamp on Software Development, Data Science, Ux design and Cybersecurity.
 
+- [DigitalCrafts](https://www.digitalcrafts.com/)
+
+DigitalCrafts is a full-time and part-time bootcamp that you can take in person or online.  You can learn web development, UX design, cybersecurity, and data analytics.
+
 - [Flatiron School](https://flatironschool.com/)
 
 Flatiron is a in-person or online coding Bootcamp which Offers courses include software engineering, cybersecurity, data science, and product design.
