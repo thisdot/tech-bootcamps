@@ -16,10 +16,14 @@ App Academy is a coding school that provides 24 week free online Software Engine
 
 Bloom Institute of Technology is a online tech school. It offers Courses on Web3 Development, Backened Development, Data Science and Full Stack Development.
 
+- [Boolean](https://boolean.careers/)
+
+Boolean is an international tech academy and with the following two courses: Full-Stack Web Development and Data Analytics. Both courses have a duration of 6 months.
+
 - [Brain Station](https://brainstation.io/)
 
 BrainStation is a personalized learning platform providing an unrivaled learning experience in various filed through their Structured Bootcamp .
-
+ 
 - [Career Foundry](https://careerfoundry.com/)
 
 This is a 21 week online coding bootcamp providing everything you need to get your first job in tech offering programs on Digital Marketing, Digital Analytics, Product Management and many more.
