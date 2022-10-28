@@ -18,7 +18,7 @@ Bloom Institute of Technology is a online tech school. It offers Courses on Web3
 
 - [Boolean](https://boolean.careers/)
 
-Boolean is an international tech academy and with the following two courses: Full-Stack Web Development and Data Analytics. Both courses have a duration of 6 months.
+Boolean is an international tech academy that offers Full-Stack Web Development and Data Analytics courses. Both courses have a duration of 6 months.
 
 - [Brain Station](https://brainstation.io/)
 
