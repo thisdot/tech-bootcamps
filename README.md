@@ -22,11 +22,15 @@ Boolean is an international tech academy that offers Full-Stack Web Development 
 
 - [Brain Station](https://brainstation.io/)
 
-BrainStation is a personalized learning platform providing an unrivaled learning experience in various filed through their Structured Bootcamp .
- 
+BrainStation is a personalized learning platform providing an unrivaled learning experience in various filed through their Structured Bootcamp.
+
 - [Career Foundry](https://careerfoundry.com/)
 
 This is a 21 week online coding bootcamp providing everything you need to get your first job in tech offering programs on Digital Marketing, Digital Analytics, Product Management and many more.
+
+- [Coding Bootcamps Europe](https://www.coding-bootcamps.eu/)
+
+Coding Bootcamps Europe offer both full- and part-time German-language Web Development bootcamps. Go from having little or no development experience to being a fully employable web developer in just 3 - 9 months.
 
 - [Coding Dojo](https://www.codingdojo.com/)
 
@@ -34,7 +38,7 @@ Coding Dojo is a 28 week online bootcamp on Software Development, Data Science, 
 
 - [DigitalCrafts](https://www.digitalcrafts.com/)
 
-DigitalCrafts is a full-time and part-time bootcamp that you can take in person or online.  You can learn web development, UX design, cybersecurity, and data analytics.
+DigitalCrafts is a full-time and part-time bootcamp that you can take in person or online. You can learn web development, UX design, cybersecurity, and data analytics.
 
 - [Flatiron School](https://flatironschool.com/)
 
@@ -58,11 +62,11 @@ This course is of 12 week and 24 week program which will teach you about Data Sc
 
 - [Grand Circus](https://www.grandcircus.co/)
 
-This is a Virtual Coding Bootcamp providing knowledge of both back-end and front-end worlds with cutting-edge and in-demand technologies. 
+This is a Virtual Coding Bootcamp providing knowledge of both back-end and front-end worlds with cutting-edge and in-demand technologies.
 
 - [Hack Reactor](https://www.hackreactor.com/)
 
-Hack Reactor is a Online Coding Bootcamp training students in Software development by using a computer science and coding curriculum that models the exciting work being done in the software engineering industry. 
+Hack Reactor is a Online Coding Bootcamp training students in Software development by using a computer science and coding curriculum that models the exciting work being done in the software engineering industry.
 
 - [Ironhack](https://www.ironhack.com/en)
 
@@ -86,7 +90,7 @@ Pursuit is not a bootcamp rather it offer a long-term program support to your jo
 
 - [Springboard](https://www.springboard.com/)
 
-Springboard is a 26 week Paid online program which offers courses on Data Science, Design, coding , Tech sales, Analytics and Cyber along with Career Support for Job Placements. 
+Springboard is a 26 week Paid online program which offers courses on Data Science, Design, coding , Tech sales, Analytics and Cyber along with Career Support for Job Placements.
 
 - [Tech Elevator](https://www.techelevator.com/)
 
@@ -95,4 +99,3 @@ Tech Elevator is a coding bootcamp that teaches you the skills you need to becom
 - [Thinkful](https://www.thinkful.com/)
 
 Thinkful is 21 week online Program on software engineering, Datascience, UX/UI Design program which you can take online and land your first developer job.
-
