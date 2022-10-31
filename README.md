@@ -12,6 +12,10 @@ This is a free 30 week software engineering bootcamp that you can take online. Y
 
 App Academy is a coding school that provides 24 week free online Software Engineering Program that you can take online.
 
+- [Aulab](https://aulab.it/)
+
+Aulab offer a coding bootcamp to become a Full-Stack Developer in 3 months with a full immersion intensive program.
+
 - [Bloom Institute of Technology](https://www.bloomtech.com/)
 
 Bloom Institute of Technology is a online tech school. It offers Courses on Web3 Development, Backened Development, Data Science and Full Stack Development.
